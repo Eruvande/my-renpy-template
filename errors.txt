@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/scripts/choose_story_screen.rpy", line 8: Line is indented, but the preceding text statement does not expect a block. Please check this line's indentation.
+    idle_color '#fff'
+    ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Thu Dec 22 13:13:29 2022
